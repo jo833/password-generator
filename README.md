@@ -24,6 +24,10 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 
+## Application Display
+
+![image](https://github.com/jo833/password-generator/assets/77372272/a184888d-850e-47ea-97b5-85cf9a753758)
+
 ## Sources
 
 For the information relating to "Good Password Practices":
