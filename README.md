@@ -4,7 +4,7 @@ A platform where users can get a unique password that follows good password mana
 
 ## Project Makeup
 
-This project was developed using TypecScript, Next.js , CSS and React.
+This project was developed using TypeScript, Next.js , CSS and React.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
